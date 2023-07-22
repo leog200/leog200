@@ -3,8 +3,8 @@
  
  <H1><br>😃Hi, my name is Leonardo;<br></H1>
  <H1><br>🏘️I'm from Brazil;<br></H1>
- <H1><br>🎓I study Computer Science at ATITUS, in Passo Fundo-RS,BR;<br></H1>
- <H1><br>🖥️Currently I'm learning PYTHON;<br></H1>
+ <H1><br>🎓🖥️I study Computer Science at ATITUS, in Passo Fundo-RS,BR;<br></H1>
+
  
 
 
